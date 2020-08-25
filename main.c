@@ -1,4 +1,4 @@
-/////hahha///
+////////
 
 #include <stdio.h>
 
